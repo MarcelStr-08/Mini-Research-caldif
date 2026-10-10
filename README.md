@@ -2,9 +2,10 @@
 
 **Analisis Laju Perubahan Penggunaan RAM Komputer terhadap Durasi Penggunaan Aplikasi Menggunakan Konsep Turunan**
 
-- Mahasiswa: Marcel Sianturi
-- Kelas/kelompok: PSIK 26 B
+- Nama: Marcel Sianturi
+- Kelas: PSIK (Ilmu Komputer)
 - Mata kuliah: Kalkulus Diferensial
+- Dosen: Suvriadi Panggabean M. Si
 - Aplikasi yang diamati: Adobe Photoshop
 
 > **Penting:** seluruh data pada situs ini adalah **data simulasi** untuk demonstrasi konsep matematika. Tidak ada pengukuran nyata, eksperimen, survei pengguna, atau rata-rata empiris Adobe Photoshop yang dilakukan dalam proyek ini.
